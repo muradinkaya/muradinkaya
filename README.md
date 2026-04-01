@@ -29,6 +29,6 @@ Fullstack Engineer with a strong focus on building scalable web applications and
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muradinkaya&show_icons=true&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muradinkaya&theme=tokyo-night)
 
 ![Streak](https://streak-stats.demolab.com?user=muradinkaya&theme=tokyonight&hide_border=true)
